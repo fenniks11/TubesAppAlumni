@@ -14,7 +14,32 @@
         android:theme="@style/Theme.Tubesmobile"
         tools:targetApi="31">
         <activity
+<<<<<<< HEAD
             android:name=".StarActivity"
+=======
+            android:name=".ForgotPassword"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".Register"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".Login"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".SplashScreen"
+>>>>>>> dcc26a6... Initial commit
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
