@@ -11,10 +11,8 @@
     <color name="colorPrimaryDark">#403d3d</color>
     <color name="colorAccent">#c2bdbf</color>
     <color name="colorBlack">#000000</color>
-<<<<<<< HEAD
-=======
+
     <color name="bg_splash">#35803D</color>
     <color name="text_warn">#FEEE67</color>
     <color name="info_color">#6C81F4</color>
->>>>>>> dcc26a6... Initial commit
 </resources>
